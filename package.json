@@ -1,0 +1,13 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "RS-school node file manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danil Ardashev",
+  "license": "ISC"
+}
