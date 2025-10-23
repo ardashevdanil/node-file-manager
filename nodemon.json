@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules"
+  ],
+  "exec": "npm run start -- --username=bober",
+  "watch": [
+    "./src/**/*"
+  ],
+  "ext": "ts"
+}
