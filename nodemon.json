@@ -3,7 +3,7 @@
     ".git",
     "node_modules/**/node_modules"
   ],
-  "exec": "ts-node ./src/index.ts",
+  "exec": "npm run start -- --username=bober",
   "watch": [
     "./src/**/*"
   ],
